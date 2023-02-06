@@ -5,3 +5,4 @@
 3. Flash reverse 
 4. Doomsday
 5. loki
+6. Deadshot

@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros
 4. Necesitamos mas comida
 5. Hacer un reconocimiento
+6. Investigar los nuevos planes
