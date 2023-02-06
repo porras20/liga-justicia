@@ -1,0 +1,1 @@
+6. tratar de investigar que trama el flash reverso
