@@ -1,1 +1,3 @@
 * Ciudad gotica
+* metropolis
+* hgells
