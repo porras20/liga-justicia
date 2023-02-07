@@ -5,4 +5,4 @@
 * Aquaman
 * Linterna verde
 * Robin
-* Nuevi heroe
+* Nuevos heroes
